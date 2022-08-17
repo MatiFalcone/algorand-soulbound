@@ -60,7 +60,7 @@ def revoke_sbt_example(sbt_asset_id, claimer_account, claimer_private_key, issue
     # 3) Issuer clawbacks SBT from claimer's account
     try:
         clawback_txn = transaction.AssetTransferTxn(
-            sender=claimer_account,
+            sender=issuer_account,
             sp=params,
             receiver=issuer_account,
             amt=1,
