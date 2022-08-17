@@ -34,6 +34,8 @@ def claim_sbt_example(sbt_asset_id, claimer_account, claimer_private_key, issuer
     # 2) Issuer updates the metadata to reflect status as "claimed"
     metadata_json = {
         "standard": "ARC5114", 
+        "issuer": "EHZMYXLWT7FNOTVS2DV6P4QDD6CKDLDJA5LTPWOZ7KQEA6RRCGJJSLPEDM",
+        "claimer": "J6CQEISJYH324FNYXHKISFGJQZRRUIUW5ADNQEH34NJ3TVDTD32KJ36K34",
         "status": "claimed", 
         "description": "ARC5114 Membership Card",
         "mime_type": "image/png"

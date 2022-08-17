@@ -21,6 +21,8 @@ def mint_sbt_example(private_key, my_address):
 
     metadata_json = {
         "standard": "ARC5114",
+        "issuer": "EHZMYXLWT7FNOTVS2DV6P4QDD6CKDLDJA5LTPWOZ7KQEA6RRCGJJSLPEDM",
+        "claimer": "J6CQEISJYH324FNYXHKISFGJQZRRUIUW5ADNQEH34NJ3TVDTD32KJ36K34",
         "status": "issued",
         "description": "ARC5114 Membership Card",
         "mime_type": "image/png"
