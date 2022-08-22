@@ -1,7 +1,7 @@
 # Hackathon: Algorand GreenHouse Hack#1
 Algorand GreenHouse Hackathon Submission | Soul Bound NFTs ARC
 
-# Our Team 🦸‍♂️🦸‍♀️
+# Our Team 🦸‍♂️
 
 **Atharva Desai**
 *Pune, India*
@@ -49,7 +49,7 @@ Her background is in writing and editing, and she has translated that ability to
 
 Consuming vast amounts of information and distilling it into easily-digestible formats is her passion (which she insists is completely normal).
 
-# Resources
+# Resources 📚
 
 - ARC: https://github.com/MatiFalcone/algorand-soulbound/blob/main/ARCs/arc-5114.md
 - Demo: https://algosouls.io
