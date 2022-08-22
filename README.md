@@ -57,6 +57,7 @@ We achieve this by building a smart contract that analyzes all the data found wi
 
 It’s an entirely new concept that cannabis businesses are able to own their compliance data but we think it’s important, as an entity should be the one who owns their own compliance, and, most importantly, the one who has the opportunity to build a trust or credit score with traditional financial institutions. 
 
+
 ![Solution Diagram](https://github.com/MatiFalcone/algorand-soulbound/blob/main/Diagram.png)
 
 ## Technical Overview
