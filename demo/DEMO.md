@@ -1,1 +1,0 @@
-# Demo: Algorand Soulbound Tokens
