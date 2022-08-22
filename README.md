@@ -148,7 +148,7 @@ If you want to talk about banking or finances, you want to talk to Ralf Kaiser. 
 Ralf looks at what Parsl is doing and immediately calculates the impact of every new technology and initiative on the banking industry. As the expert in capital raising, investment management, and capital markets, he can do these calculations in his sleep…or over a beer at the pub (trust us, we’ve seen it.) If it involves any sort of currency, Ralf is your guy.
 
 **Amna Shamim**
-New York, United States
+*New York, United States*
 
 Amna is a storyteller who loves connecting with her audience. She’ll get inside their heads and deliver the information they want in a way they find enjoyable to consume, whether that’s through detailed technical documents or witty little bios. 
 
