@@ -1,6 +1,21 @@
 # Hackathon: Algorand GreenHouse Hack#1
 Algorand GreenHouse Hackathon Submission | Soul Bound NFTs ARC
 
+# Video 📽
+
+[Watch our submission video](https://www.youtube.com/watch?v=5ujm5RIS9K0)
+
+[0:20](https://youtu.be/5ujm5RIS9K0?t=20) - Introduction
+[0:35](https://youtu.be/5ujm5RIS9K0?t=35) - Why we are doing this
+[1:35](https://youtu.be/5ujm5RIS9K0?t=95) - Challenges in the cannabis industry
+[2:35](https://youtu.be/5ujm5RIS9K0?t=155) - Cannabis compliance and why it's different
+[3:47](https://youtu.be/5ujm5RIS9K0?t=227) - How NFTs work
+[5:03](https://youtu.be/5ujm5RIS9K0?t=303) - Soulbound Tokens and how they work
+[6:49](https://youtu.be/5ujm5RIS9K0?t=409) - Technical overview
+[8:32](https://youtu.be/5ujm5RIS9K0?t=512) - Our solution
+[9:59](https://youtu.be/5ujm5RIS9K0?t=599) - Demo
+[13:07](https://youtu.be/5ujm5RIS9K0?t=787) - Final message
+
 # Article 📜
 
 ## Introduction
