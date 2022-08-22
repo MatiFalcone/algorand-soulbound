@@ -52,6 +52,7 @@ Consuming vast amounts of information and distilling it into easily-digestible f
 # Resources 📚
 
 - ARC: https://github.com/MatiFalcone/algorand-soulbound/blob/main/ARCs/arc-5114.md
+- Python Implementation: https://github.com/MatiFalcone/algorand-soulbound/tree/main/python
 - Demo: https://algosouls.io
 - Demo Source Code: https://github.com/MatiFalcone/algorand-soulbound-frontend
 - Website: https://parsl.co
